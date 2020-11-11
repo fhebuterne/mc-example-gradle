@@ -1,0 +1,5 @@
+name: ExampleGradle
+version: @version@
+main: fr.fabienhebuterne.examplegradle.ExampleGradle
+api-version: 1.16
+authors: [ fabien91 ]
